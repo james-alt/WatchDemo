@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="WatchDemoWatchKitExtension/WatchDemoWatchKitExtension.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
+    <Files>
+      <File FileName="WatchDemoWatchKitExtension/InterfaceController.cs" Line="1" Column="1" />
+      <File FileName="WatchDemoWatchKitExtension/DemoTableController.cs" Line="1" Column="1" />
+      <File FileName="AppDelegate.cs" Line="78" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WatchDemo" expanded="True">
+            <Node name="WatchDemo" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+            <Node name="WatchDemoWatchKitApp" expanded="True" />
+            <Node name="WatchDemoWatchKitExtension" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="DemoTableController.cs" expanded="True" />
+              <Node name="DemoTableRowController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="WatchDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Repositories/Mockler/mobile/com.alterity.mockler/com.alterity.mockler.core/ViewModels/LocationsViewModel.cs" line="24" offsetX="392" offsetY="346" expression="a" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
